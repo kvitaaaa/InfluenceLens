@@ -1,7 +1,3 @@
-yt-comment-personal
-==============================
-
-small personal project
 
 Project Organization
 ------------
